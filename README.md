@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with EPAM [https://www.epam.com/](https://www.epam.com/)
 
-- I'm recently started my first SaaS [BiuroFaktur.pl](https://biurofaktur.pl/)
+- I recently started my first SaaS [BiuroFaktur.pl](https://biurofaktur.pl/)
 
 - 👨‍💻 Some of my projects are available at [https://github.com/LukaszFliegel?tab=repositories](https://github.com/LukaszFliegel?tab=repositories)
 
