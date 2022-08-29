@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukasz Fliegel</h1>
-<h3 align="center">A software developer who wanted to code in the age of 14!</h3>
+<h3 align="center">A software developer who started to code in the age of 14!</h3>
 
 - 🔭 I’m currently working with EPAM [https://www.epam.com/](https://www.epam.com/)
 
